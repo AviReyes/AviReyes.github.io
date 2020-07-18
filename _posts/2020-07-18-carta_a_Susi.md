@@ -7,7 +7,7 @@ Querida Susi, ya va ser un mes de la última vez que pude oler tu cabello. Todo 
 
 Te quiero. He aprendido a quererte en este contexto de pandemia. En cada forma que inventamos para amarnos. En cada palabra que nos dedicamos. Me gusta leerte, tus palabras de amor se meten en mi piel, calman mi paciencia, me alimentan de esperanza. Nos abrazamos en cada palabra que nos dedicamos. 
 
-Att. Tu enamorada Avi. 
+Att. Tu enamorada Avi.
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
