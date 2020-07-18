@@ -10,7 +10,6 @@ Te quiero. He aprendido a quererte en este contexto de pandemia. En cada forma q
 Att. Tu enamorada Avi.
 
 
-![_config.yml]({{ site.baseurl }}/images/b91f227b91fd339177c5516caf108c25.jpg)
-
+![_config.yml]({{ site.baseurl }}/images/f8cee1d062853c82dc4da0ac254756ee.jpg)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
