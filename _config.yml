@@ -59,26 +59,26 @@ permalink: /:title/
 # El lanzamiento de Jekyll Ahora que estás usando
 version: v1.2.0
 
-# Jekyll 3 now only supports Kramdown for Markdown
+# Jekyll 3 ahora solo es compatible con Kramdown para Markdown
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  # Use la rebaja con sabor a GitHub, incluidos los bloques de código delimitados con triple tilde
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  # ekyll 3 y GitHub Pages ahora solo admiten rouge para resaltado de sintaxis
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
+    # Use la sintaxis de pigmentos existente resaltando css
     css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
+# Configure el directorio de parciales de Sass, ya que estamos usando @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :expanded # Es posible que prefieras minificar usando: comprimido
 
-# Use the following plug-ins
+# Utilice los siguientes complementos
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-sitemap # Crea un mapa del sitio usando la gema oficial del mapa del sitio Jekyll
+  - jekyll-feed # Crea una fuente Atom usando la gema oficial de la fuente Jekyll
 
-# Exclude these files from your production _site
+# Excluya estos archivos de su _sitio de producción
 exclude:
   - Gemfile
   - Gemfile.lock
