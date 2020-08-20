@@ -12,7 +12,7 @@ description: Blog dedicado a las mujeres que aman a otras mujeres.
 avatar: https://github.com/AviReyes/AviReyes.github.io/blob/master/images/amoras.jpg?raw=true
 
 #
-# Estos son opcionales
+# Estos son opcionales.
 #
 
 # Incluye un icono en el pie de página para cada nombre de usuario que ingrese
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   
   flickr:
-  github: AviReyes.github.io
+  github: AviReyes
   instagram:
   linkedin:
   pinterest:
