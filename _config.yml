@@ -1,14 +1,14 @@
 #
-# This file contains configuration flags to customize your site
+# Este archivo contiene indicadores de configuración para personalizar su sitio
 #
 
-# Name of your site (displayed in the header)
+# Nombre de su sitio (mostrado en el encabezado)
 name: Blog AMORA
 
-# Short bio or description (displayed in the header)
+# Nombre de su sitio (mostrado en el encabezado)
 description: Blog dedicado a las mujeres que aman a otras mujeres.
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# URL de su avatar o foto de perfil (puede usar su foto de perfil de GitHub)
 avatar: https://avatars1.githubusercontent.com/u/68315937?s=460&u=bbc7e24165b5472abcbbcf0b0d8a1a8d827a0172&v=4
 
 #
@@ -18,8 +18,8 @@ avatar: https://avatars1.githubusercontent.com/u/68315937?s=460&u=bbc7e24165b547
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: avi.reyes.96
+  email: avitareyes@gmail.com
+  facebook:
   
   flickr:
   github: 
