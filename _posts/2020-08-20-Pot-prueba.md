@@ -3,7 +3,7 @@ layout: post
 title: Post Prueba
 ---
 
-Querida Susi.
+Querida Susi,
 
 Ya va ser un mes de la última vez que pude oler tu cabello. Todo me recuerda a ti, la lluvia que escurre por mi venta, las flores que riego por las mañanas, las canciones que alguna vez me obsequiaste. Te siento tan cerca de mis pensamientos. Te extraño tanto. Cómo quisiera ir hasta donde estás y darte un beso en la comisura de tus labios, hacerme nidito entre tus brazos, que nuestros pechos se encuentren y que mis piernas hallen refugio entre tus piernas.
 
