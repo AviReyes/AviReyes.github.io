@@ -12,51 +12,51 @@ description: Blog dedicado a las mujeres que aman a otras mujeres.
 avatar: https://github.com/AviReyes/AviReyes.github.io/blob/master/images/amoras.jpg?raw=true
 
 #
-# Flags below are optional
+# Estos son opcionales
 #
 
-# Includes an icon in the footer for each username you enter
+# Incluye un icono en el pie de página para cada nombre de usuario que ingrese
 footer-links:
   dribbble:
   email: avitareyes@gmail.com
   facebook:
   
   flickr:
-  github: 
-  instagram:avi.reyes
+  github: https://AviReyes.github.io
+  instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: # simplemente escriba cualquier cosa aquí para ver un icono de RSS que funcione
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow: # su perfil de stackoverflow, p. ej. "usuarios / 50476 / bart-kiers"
+  youtube: # channel / <your_long_string> o usuario / <user-name>
+  googleplus: # cualquier cosa en su nombre de usuario de perfil que venga después de plus.google.com/
 
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
+# Ingrese su nombre corto de Disqus (no su nombre de usuario) para permitir comentar en publicaciones
+# Puede encontrar su nombre corto en la página de Configuración de su cuenta de Disqus
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Ingrese su código de seguimiento web de Google Analytics (por ejemplo, UA-2110908-2) para activar el seguimiento
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+# URL de su sitio web (por ejemplo, http://barryclark.github.io o http://www.barryclark.co)
+# Se utiliza para Sitemap.xml y su feed RSS
+url: 
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# Si está alojando su sitio en un repositorio de proyectos en páginas de GitHub
+# http://yourusername.github.io/repository-name)
+# y NO su repositorio de usuarios (http://yourusername.github.io)
+# luego agregue la baseurl aquí, así: "/ nombre-repositorio"
 baseurl: ""
 
 #
-# !! You don't need to change any of the configuration flags below !!
+# !! ¡No necesita cambiar ninguna de las opciones de configuración a continuación!
 #
 
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
+# El lanzamiento de Jekyll Ahora que estás usando
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
