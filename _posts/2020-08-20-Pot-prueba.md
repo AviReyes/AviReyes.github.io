@@ -8,4 +8,4 @@ Querida Susi, como quisiera desaparecer las tristezas de tu alma, resolver los p
 Att. Tu enamorada Avi.
 
 
-![_config.yml]({{ site.baseurl }}/images/f8cee1d062853c82dc4da0ac254756ee.jpg)
+![_config.yml]({{ site.baseurl }}/https://youtu.be/ksiY_0HO-2o)
