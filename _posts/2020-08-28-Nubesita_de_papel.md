@@ -1,9 +1,14 @@
 ---
 layout: post
-title: Nubesita de papel que no moja
+title: Trenzarte el cabello
 ---
 
-tarde de lluvia en el mes de Agosto o ese primer pensamiento que se cuela en la memoria al despertar.
+Como quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. 
+Ahuyentarte los fantasmas que rondan tu cabeza. 
+Vivir en tu cabello y acompañarte en tus paseos. 
+No importa de qué color sea, porque cualquier color te combina. 
+Solo quisiera ser tu compañera de aventuras.
+
 
 Att. Tu enamorada Avi.
 
