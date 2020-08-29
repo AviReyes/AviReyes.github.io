@@ -3,7 +3,7 @@ layout: post
 title: Nubesita de papel que no moja
 ---
 
-Querida Susi, como quisiera desaparecer las tristezas de tu alma, resolver los problemas que te afligen, pero no puedo, solo tengo un abrazo cálido para darte, una taza de té caliente y mi hogar como refugio para cuando lo necesites. Puedo ser ese pequeño instante en tu vida, sutil, suave, disfrutable, como una tarde de lluvia en el mes de Agosto o ese primer pensamiento que se cuela en la memoria al despertar.
+Querida Susi, como quisiera desaparecer las tristezas de tu alma, resolver los problemas que te afligen, pero no puedo, solo tengo un abrazo cálido para darte, una taza de té caliente y mi hogar como refugio para cuando lo necesites. Puedo ser como un instante, sutil, suave, disfrutable, como una tarde de lluvia en el mes de Agosto o ese primer pensamiento que se cuela en la memoria al despertar.
 
 Att. Tu enamorada Avi.
 
