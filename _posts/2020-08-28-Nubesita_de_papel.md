@@ -3,7 +3,7 @@ layout: post
 title: Trenzarte el cabello
 ---
 
-<p style='text-align: justify;'> </p>
+<p></p>
 
 <p style='text-align: justify;'> 
   
