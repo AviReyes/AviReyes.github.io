@@ -3,6 +3,7 @@ layout: post
 title: Trenzarte el cabello
 ---
 
+<p style='text-align: justify;'> 
   
 <p> Como quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. </p>
 
@@ -14,6 +15,7 @@ title: Trenzarte el cabello
 
 <p> Solo quisiera ser tu compañera de aventuras. </p>
 
+</p>
 
 Att. Tu enamorada Avi.
 
