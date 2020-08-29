@@ -7,7 +7,7 @@ Querida Susi, como quisiera desaparecer las tristezas de tu alma, resolver los p
 
 Att. Tu enamorada Avi.
 
-youtube: https://www.youtube.com/watch?v=ksiY_0HO-2o&list=PLpg2iAVQSPYnRxM6_SfXIkk-kdsEIg4j2&index=58 
+
 
 
 ![_config.yml]({{ site.baseurl }}/https://www.youtube.com/watch?v=ksiY_0HO-2o&list=PLpg2iAVQSPYnRxM6_SfXIkk-kdsEIg4j2&index=58)
