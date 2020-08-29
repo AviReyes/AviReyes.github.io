@@ -3,7 +3,7 @@ layout: post
 title: Trenzarte el cabello
 ---
 
-<p style='text-align: right;'> 
+<p style='text-align: justify;'> 
   
 Como quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. 
 Ahuyentarte los fantasmas que rondan tu cabeza. 
