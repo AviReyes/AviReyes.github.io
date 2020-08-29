@@ -3,6 +3,8 @@ layout: post
 title: Trenzarte el cabello
 ---
 
+<p style='text-align: justify;'> </p>
+
 <p style='text-align: justify;'> 
   
 <p> Como quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. </p>
