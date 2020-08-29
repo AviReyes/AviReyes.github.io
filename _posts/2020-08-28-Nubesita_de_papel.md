@@ -3,13 +3,13 @@ layout: post
 title: Trenzarte el cabello
 ---
 
-<body style=”text-align: justify;”>
+<p style=”text-align: justify;”>
 Como quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. 
 Ahuyentarte los fantasmas que rondan tu cabeza. 
 Vivir en tu cabello y acompañarte en tus paseos. 
 No importa de qué color sea, porque cualquier color te combina. 
 Solo quisiera ser tu compañera de aventuras.
-</body>
+</p>
 
 
 Att. Tu enamorada Avi.
