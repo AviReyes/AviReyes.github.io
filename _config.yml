@@ -54,7 +54,7 @@ baseurl: ""
 # !! ¡No necesita cambiar ninguna de las opciones de configuración a continuación!
 #
 
-permalink: /title/
+permalink: /:title/
 
 # El lanzamiento de Jekyll Ahora que estás usando
 version: v1.2.0
