@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amora
+categories: [amora, confinamiento]
 ---
 
 <p style='text-align: justify;'> 
