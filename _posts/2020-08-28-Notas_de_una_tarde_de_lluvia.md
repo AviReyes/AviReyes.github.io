@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trenzarte el cabello
+categories: poema
 ---
 
 <p></p>
