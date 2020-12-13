@@ -7,7 +7,7 @@ title: Trenzarte el cabello
 
 <p style='text-align: justify;'> 
   
-<p> Cómo quisiera ser ese listón que usas para trenzar tus tristezas, y sanar juntas. </p>
+<p> Cómo quisiera ser ese listón que usas, para trenzar tus tristezas y sanar juntas. </p>
 <p> Ahuyentarte los fantasmas que rondan tu cabeza. </p>
 <p> Vivir en tu cabello y acompañarte en tus paseos. </p>
 <p> No importa de qué color sea, porque cualquier color te acomoda. </p>
